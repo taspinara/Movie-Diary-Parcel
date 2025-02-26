@@ -33,6 +33,7 @@ searchInput.addEventListener("click", () => {
   searchInput.value = "";
 });
 
+
 // Hamburger menu toggle
 const mobileMenuButton = document.getElementById("mobile-menu-button");
 const mobileMenu = document.getElementById("mobile-menu");

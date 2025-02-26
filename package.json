@@ -12,6 +12,7 @@
     "autoprefixer": "^10.4.20",
     "parcel": "^2.13.3",
     "postcss": "^8.5.3",
+    "svgo": "^3.3.2",
     "tailwindcss": "^4.0.7"
   },
   "dependencies": {
